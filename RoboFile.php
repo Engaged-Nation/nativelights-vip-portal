@@ -2,13 +2,13 @@
 /**
  * Contains RoboFile
  *
- * @package grandtraverse
+ * @package nativelights-vip
  */
 
 /**
  * @author Joshua Copeland <josh@engagednation.com>
  * @author Matthew Kosolofski <matthew.kosolofski@engagednation.com>
- * @package grandtraverse
+ * @package nativelights-vip
  */
 class RoboFile extends \Robo\Tasks
 {
