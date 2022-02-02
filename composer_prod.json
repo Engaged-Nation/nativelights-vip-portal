@@ -1,6 +1,6 @@
 {
-    "name": "engaged-nation/grandtraverse-portal",
-    "description": "Native Lights  Reach Client",
+    "name": "engaged-nation/nativelights-vip-portal",
+    "description": "Grand Traverse Reach Client",
     "type": "project",
     "require": {
         "php": "^5.6",
