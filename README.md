@@ -6,14 +6,14 @@ This is the black template for Reach products.
 
 ### Login to the Front End
 ```
-URL: grandtraverse.localhost.en/
+URL: nativelights-vip.localhost.en/
 UN: test@test.com
 PW: testing
 ```
 
 ### Login to the Admin
 ```
-URL: grandtraverse-portal.localhost.en/administrator
+URL: nativelights-vip-portal.localhost.en/administrator
 UN: testing
 PW: testing
 ```
